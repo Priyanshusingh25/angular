@@ -1,0 +1,10 @@
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color :rgb(187, 4, 4);
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    color: #fff;
+}
