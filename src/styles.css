@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-    background-color: #000;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-image: url('./assets/noise.png');
+    text-align: center;
 }
